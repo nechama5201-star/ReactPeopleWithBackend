@@ -4,7 +4,7 @@ using ReactPeopleWithBackend.Web.Models;
 
 namespace ReactPeopleWithBackend.Web.Controllers
 {
-    [Route("api/[controller]/[action]")]
+    [Route("api/[controller]")]
     [ApiController]
     public class PeopleController : ControllerBase
     {
